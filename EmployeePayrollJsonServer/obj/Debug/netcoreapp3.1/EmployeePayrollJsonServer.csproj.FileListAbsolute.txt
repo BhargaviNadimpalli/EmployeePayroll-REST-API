@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\bin\Debug\netcoreapp3.1\EmployeePayrollJsonServer.exe
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\bin\Debug\netcoreapp3.1\EmployeePayrollJsonServer.deps.json
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\bin\Debug\netcoreapp3.1\EmployeePayrollJsonServer.runtimeconfig.json
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\bin\Debug\netcoreapp3.1\EmployeePayrollJsonServer.runtimeconfig.dev.json
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\bin\Debug\netcoreapp3.1\EmployeePayrollJsonServer.dll
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\bin\Debug\netcoreapp3.1\EmployeePayrollJsonServer.pdb
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\obj\Debug\netcoreapp3.1\EmployeePayrollJsonServer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\obj\Debug\netcoreapp3.1\EmployeePayrollJsonServer.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\obj\Debug\netcoreapp3.1\EmployeePayrollJsonServer.AssemblyInfo.cs
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\obj\Debug\netcoreapp3.1\EmployeePayrollJsonServer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\obj\Debug\netcoreapp3.1\EmployeePayrollJsonServer.dll
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\obj\Debug\netcoreapp3.1\EmployeePayrollJsonServer.pdb
+C:\Users\HP\source\repos\EmployeePayrollJsonServer\EmployeePayrollJsonServer\obj\Debug\netcoreapp3.1\EmployeePayrollJsonServer.genruntimeconfig.cache
